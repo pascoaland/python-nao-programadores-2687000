@@ -25,5 +25,5 @@ print(resumo.title())
 print(resumo.capitalize())
 
 # Imprima na tela uma string utilizando uma variável, usando o recurso string format
-nome = 'andressa'
-print(nome.capitalize())
+Nome = 'andressa'
+print(f"O nome de quem está estudando é {Nome.capitalize()} e ela será foda em python!")
